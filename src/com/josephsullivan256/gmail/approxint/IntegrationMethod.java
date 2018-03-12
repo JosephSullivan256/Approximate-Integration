@@ -1,4 +1,4 @@
-package com.youknowjoejoe.gmail.approxint;
+package com.josephsullivan256.gmail.approxint;
 
 public interface IntegrationMethod {
 	public double integrate(ApproximateIntegral integral);
